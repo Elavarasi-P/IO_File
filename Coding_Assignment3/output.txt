@@ -1,0 +1,5 @@
+
+Repeating elements in the input array:
+Number:Frequency
+5:2
+
