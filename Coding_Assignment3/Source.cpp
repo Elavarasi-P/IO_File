@@ -1,3 +1,8 @@
+//CODING ASSIGNMENT 3
+//IO_FILE
+//Using fstream read an input array from a file, find the duplicates and their frequencies and write back the results to other file.
+
+
 #include<iostream>
 #include<fstream>
 #include<unordered_map>
